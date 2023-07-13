@@ -1,0 +1,80 @@
+body{
+	width: 1000px;
+	background-color: #101010;
+}
+#body{
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+}
+#title{
+	width: 400px;
+	heigjt: 200px;
+}
+#title-1{
+	width: 100px;
+	height: 50px;
+	color: #aabb00;
+	background-color: #aa0000;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.5em;
+	line-height: 50px;
+	float: left;
+}
+#title-2{
+	width: 300px;
+	height: 50px;
+	background-color: #112211;
+	text-align: center;
+	line-height: 50px;
+	float: left;
+}
+#title-t{
+	width: 200px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 1.5em;
+	background-color: rgba(20, 20, 20, 0.8);
+	color: #aaaaaa;
+	border: none;
+}
+#title-b{
+	width: 80px;
+	height: 45px;
+	background-color: #aa0000;
+	color: #660000;
+	border: none;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+#nav{
+	width: 400px;
+}
+.nav-a:link, .nav-a:visited{
+	color: #666666;
+	text-decoration: none;
+}
+#ad{
+	width: 400px;
+}
+#video{
+	width: 400px;
+	color: #666666;
+}
+.vs{
+	width: 400px;
+	height: 230px;
+	margin-top: 10px;
+	background-color: #444444;
+	color: #aaaaaa;
+	text-align: center;
+}
+#v-a:link, #v-a:visited{
+	color: #666666;
+	text-decoration: none;
+}
+#bottom{
+	width: 400px;
+	color: #666666;
+}

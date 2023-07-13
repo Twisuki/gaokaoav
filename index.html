@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<style>
+		
+	</style>
+	<script>
+		var i = 6;
+		function time() {
+			i --;
+			document.getElementById("a").innerHTML = "正在跳转。。。" + i;
+			if(i == 0) {
+				if(Math.random() > 0.5) {
+					location.href="main.html";
+				}
+				i ++;
+			}
+		}
+	</script>
+</head>
+<body>
+	<div id="a">正在跳转。。。</div>
+	<br>
+	如果跳转失败请<a href="main.html">点击此处</a>手动跳转
+	<script>
+		setInterval("time()",1000);
+	</script>
+</body>
+</html>

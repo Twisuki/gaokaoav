@@ -1,0 +1,217 @@
+#ad-1{
+	width: 400px;
+	height: 50px;
+	background-color: #aaaa00;
+	line-height: 50px;
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
+#ad-1-1{color: #aa0000;}
+#ad-1-2{color: #0000aa;}
+#ad-1-3{color: #aa00aa;}
+#ad-1-4{color: #00aa00;}
+#ad-2{
+	width: 250px;
+	height: 50px;
+	background-color: #880000;
+	line-height: 50px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 25px;
+	float: left;
+}
+#ad-2-1{color: #bbbb22;}
+#ad-2-2{color: #00aaff; font-size: 1.2em;}
+#ad-3{
+	width: 150px;
+	height: 50px;
+	background-color: #aa0000;
+	line-height: 50px;
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	color: #bbbb22;
+	float: left;
+}
+#ad-4{
+	width: 400px;
+	height: 50px;
+	background-color: #990000;
+	line-height: 50px;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
+#ad-4-1{color: #00eeee;}
+#ad-4-2{color: #bbbb22;}
+#ad-5{
+	width: 400px;
+	height: 26px;
+	background-color: #666666;
+	line-height: 26px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
+#ad-5 font{float: left;}
+#ad-5-1{
+	background-color: #000000;
+	color: #aaaa00;
+}
+#ad-5-2{
+	background-color: #aaaa00;
+	color: #101010;
+}
+#ad-5-3{color: #999900;}
+#ad-5-4{color: #00bbbb;}
+#ad-5-5{
+	background-color: #aa0000;
+	color: #aaaa00;
+}
+#ad-6{
+	width: 400px;
+	height: 50px;
+	background-color: #eeeeee;
+	line-height: 50px;
+	font-size: 1.3em;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
+#ad-6-1{color: #aa0000;}
+#ad-6-2{color: #000088;}
+#ad-6-3{color: #101010;}
+#ad-6-4{color: #aa0099;}
+#ad-7{
+	width: 400px;
+	height: 27px;
+	background-color: #990000;
+	line-height: 27px;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
+#ad-7 font{float: left;}
+#ad-7-1{
+	background-color: #101010;
+	color: #aaaa00;
+}
+#ad-7-2{
+	background-color: #eeeeee;
+	color: #ee00aa;
+}
+#ad-7-3{
+	background-color: #aaaa00;
+	color: #101010;
+}
+#ad-7-4{color: #aaaa00;}
+#ad-8{
+	width: 400px;
+	height: 50px;
+	background-color: #eeeeee;
+	line-height: 50px;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
+#ad-8 font{float: left;}
+#ad-8-1{
+	background-color: #101010;
+	color: #eeeebb;
+}
+#ad-8-2{color: #0000aa;}
+#ad-8-3{color: #aa0000;}
+#ad-9{
+	width: 80px;
+	height: 80px;
+	background-color: #bb0000;
+	line-height: 40px;
+	font-size: 40px;
+	font-weight: bold;
+	float: left;
+	color: #aabb00;
+}
+#ad-10{
+	width: 320px;
+	height: 50px;
+	background-color: #228844;
+	line-height: 50px;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
+#ad-10-1{color: #eeeeee;}
+#ad-10-2{color: #aaaa00;}
+#ad-10-3{color: #eeeeee;}
+#ad-11{
+	width: 320px;
+	height: 30px;
+	background-color: #aa0000;
+	line-height: 30px;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
+#ad-11 font{float: left;}
+#ad-11-1{
+	background-color: #0000dd;
+	color: #aaaa00;
+}
+#ad-11-2, #ad-11-4{
+	background-color: #aaaa00;
+	color: #aa0000;
+}
+#ad-11-3{
+	background-color: #aaaa00;
+	color: #0000aa;
+}
+#ad-11-5{
+	background-color: #aa0000;
+	color: #aaaa00;
+}
+#ad-12{
+	width: 400px;
+	height: 30px;
+	background-color: #228844;
+	line-height: 30px;
+	font-weight: bold;
+	float: left;
+}
+#ad-12-1{
+	font-size: 24px;
+	background-color: #101010;
+	color: #aaaa00;
+}
+#ad-12-2{
+	font-size: 18px;
+	background-color: #8888aa;
+	color: #eeeeee;
+}
+#ad-12-3{
+	font-size: 18px;
+	background-color: #0000aa;
+	color: #eeeeee;
+}
+#ad-12-4{
+	font-size: 24px;
+	color: #eeeeee;
+}
+#ad-13{
+	width: 400px;
+	height: 60px;
+	background-color: #0000dd;
+	color: #00aa00;
+	line-height: 30px;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+}
